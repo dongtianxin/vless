@@ -53,22 +53,22 @@
       "mtu": 1300,
       "peers": [
         {
-          "address": "188.114.97.243",
+          "address": "188.114.97.53",
           "allowed_ips": [
             "0.0.0.0/0",
             "::/0"
           ],
           "persistent_keepalive_interval": 25,
-          "port": 894,
+          "port": 864,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            120,
-            129,
-            90
+            18,
+            2,
+            2
           ]
         }
       ],
-      "private_key": "oH/qMaXyKVTwJtjys/C5lLb+e+rD3E5zbmL3uCfSZ0I=",
+      "private_key": "QAx1vdd9LDr4otvpOeZNIpaa88angBa0BtQ7ox61jWk=",
       "tag": "\ud83c\uddee\ud83c\uddf7Iran",
       "type": "wireguard",
       "workers": 2
@@ -82,22 +82,22 @@
       "mtu": 1300,
       "peers": [
         {
-          "address": "8.6.112.50",
+          "address": "8.6.112.211",
           "allowed_ips": [
             "0.0.0.0/0",
             "::/0"
           ],
           "persistent_keepalive_interval": 25,
-          "port": 2506,
+          "port": 854,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            225,
-            217,
-            39
+            7,
+            29,
+            97
           ]
         }
       ],
-      "private_key": "iGKHG7kP+5KvOrkbueHDUPI8BHfWrYr6TZMVryhfqEc=",
+      "private_key": "sOSTAu6B2B5vhwFY4m5OPhSjsbjhqgXF6p/IT2QMhWQ=",
       "tag": "\ud83c\uddea\ud83c\uddfaEurope",
       "type": "wireguard",
       "workers": 2
